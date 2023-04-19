@@ -3,7 +3,7 @@
 ## deployment notes
 lorem 
 
-## staging notes
+## new  notes
 lorem epsum dfhjf
 
 ## how to use this repo notes
