@@ -1,10 +1,7 @@
-# git-essent
+# git-essentIAL / GIT FOR EVERYBODY
 
-## deployment notes
-lorem 
+this is the course to teache you how to use git everyday.
 
-## new  notes
-lorem epsum dfhjf
+course created by shweta gupta
 
-## how to use this repo notes
-lerm
+
